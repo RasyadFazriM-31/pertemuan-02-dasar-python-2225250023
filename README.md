@@ -6,7 +6,8 @@ Repositori ini berisi latihan dan tugas Pertemuan 2 mata kuliah Algoritma
 dan Pemrograman, Program Studi S1 Pendidikan Matematika FKIP Untirta.
 Isinya mencakup empat berkas latihan dasar Python (variabel, tipe data,
 input-output, dan operator) serta satu tugas utama berupa program
-kalkulator koordinat dua tit## Daftar dan Fungsi Berkas
+kalkulator koordinat dua titik
+## Daftar dan Fungsi Berkas
 
 | Berkas | Fungsi |
 |---|---|
