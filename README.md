@@ -1,5 +1,5 @@
 
-Nama    : Rasyad Fazri Mulyono NIM : 2320023  Kelas : 3A
+Nama    : Rasyad Fazri Mulyono NIM : 2225250023  Kelas : 3A
 ## Tujuan Repositori
 
 Repositori ini berisi latihan dan tugas Pertemuan 2 mata kuliah Algoritma
