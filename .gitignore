@@ -1,0 +1,14 @@
+# Cache dan bytecode Python
+__pycache__/
+*.pyc
+
+# Virtual environment (jika dipakai)
+venv/
+.venv/
+
+# Pengaturan lokal VS Code
+.vscode/
+
+# Berkas sistem operasi
+.DS_Store
+Thumbs.db
